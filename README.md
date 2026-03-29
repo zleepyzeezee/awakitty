@@ -2,8 +2,8 @@
     <img width="200" alt="Alacritty Logo" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png">
 </p>
 
-<h1 align="center">Alacritty - A fast, cross-platform, OpenGL terminal emulator</h1>
-
+<h1 align="center">AwakiTTY - A fast, cross-platform, OpenGL terminal emulator in C.</h1>
+<h2 align="center"> AwakiTTY is a personal project by an amateur programmer, do not expect it to be very good.</h2>
 <p align="center">
   <img alt="Alacritty - A fast, cross-platform, OpenGL terminal emulator"
        src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/promo/alacritty-readme.png">
